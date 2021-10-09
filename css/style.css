@@ -1,0 +1,12 @@
+
+p{
+  color:blue;
+justify-content:flex-start;
+
+}
+
+header{
+  color: blue;
+  display:flex;
+  margin: 10,10,50,50;
+}
